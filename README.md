@@ -18,17 +18,22 @@ Segundo grado – En curso
 **Habilidades Técnicas
 
   ++Programación estructurada
+  
     - C#
     - Visual Studio Code
     - Uso de condicionales (if, switch)
     - Uso de ciclos (while, do while, for)
     - Desarrollo de programas de consola
+    
   ++Redes
+  
     - Cisco Packet Tracer
     - Configuración básica en Cisco Packet Tracer
     - Configuración de VLAN y VTP
     - Rutas estáticas y dinámicas
+    
   ++Sistemas Operativos
+  
     - Línea de comandos (CMD)
     - Administración básica de Windows
     - Gestión de archivos y permisos 
