@@ -44,10 +44,8 @@ Segundo grado – En curso
 
     - Trabajo en equipo  
     - Responsabilidad  
-    - Organización  
-    - Resolución de problemas  
-    - Aprendizaje continuo  
-    
+    - Organización 
+        
 ---
 ---Carta de presentación--
 
