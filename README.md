@@ -1,17 +1,22 @@
 **Sobre mí
+
 Soy estudiante de segundo grado de la Ingeniería en 
 Tecnologías de la Información e Innovación Digital 
-en la Universidad Tecnológica del Valle del Mezquital.  
+en la Universidad Tecnológica del Valle del Mezquital. 
 Me interes es continuar desarrollando mis habilidades 
 técnicas y adquirir experiencia profesional en el área tecnológica.
+
 ---
 **Formación Académica
+
 Ingeniería en Tecnologías de la Información e Innovación Digital  
 TSU en Desarrollo de Software Multiplataforma  
 Universidad Tecnológica del Valle del Mezquital  
 Segundo grado – En curso
+
 ---
 **Habilidades Técnicas
+
   ++Programación estructurada
     - C#
     - Visual Studio Code
@@ -27,15 +32,20 @@ Segundo grado – En curso
     - Línea de comandos (CMD)
     - Administración básica de Windows
     - Gestión de archivos y permisos 
+    
 ---
+
 **Competencias
+
     - Trabajo en equipo  
     - Responsabilidad  
     - Organización  
     - Resolución de problemas  
     - Aprendizaje continuo  
+    
 ---
 ---Carta de presentación--
+
 Mi nombre es Sonia Hernández Tepetate, actualmente curso el segundo grado de 
 Ingeniería en Tecnologías de la Información e Innovación Digital. Durante mi 
 formación he desarrollado conocimientos en programación estructurada, desarrollo 
